@@ -1,5 +1,11 @@
 # Apollo-CachyOS
 
+> ⚠️ **Archived — superseded by [Hermes](https://github.com/MrOz59/Hermes).**
+> The upstream project incorporated this fork's EVDI/KDE/Gamescope fixes (see the
+> acknowledgements in the Hermes README) and now ships a lower-latency zero-copy
+> virtual display driver, [Hermes-KMS](https://github.com/MrOz59/Hermes-KMS).
+> Use Hermes instead; this repository is kept read-only for reference.
+
 A fork of [MrOz59/Apollo-Linux](https://github.com/MrOz59/Apollo-Linux) that finally streams a **real virtual display** to a Moonlight client on **CachyOS / Arch + KDE Plasma 6 (Wayland)**, with **first-class [Gamescope](https://github.com/ValveSoftware/gamescope) integration** for the SteamOS Gaming Mode experience — without booting into SteamOS.
 
 ## Headline features
